@@ -7,8 +7,8 @@ import emoji from "react-easy-emoji";
 
 const greeting = {
   /* Your Summary And Greeting Section */
-  username: "Saad Pasta",
-  title: "Hi all, I'm Saad",
+  username: "Pradip Shrestha",
+  title: "Hi all, I'm Pradip",
   subTitle: emoji("A passionate Software Developer 🚀 having an experience of building Web and Mobile applications with JavaScript / Reactjs / Nodejs / React Native and some other cool libraries and frameworks."),
   resumeLink: "https://drive.google.com/file/d/1ofFdKF_mqscH8WvXkSObnVvC9kK7Ldlu/view?usp=sharing"
 };
@@ -17,9 +17,9 @@ const greeting = {
 
 const socialMediaLinks = {
 
-  github: "https://github.com/saadpasta",
+  github: "https://github.com/Pradip618",
   linkedin: "https://www.linkedin.com/in/saadpasta/",
-  gmail: "saadpasta70@gmail.com",
+  gmail: "ramstha618@gmail.com",
   gitlab: "https://gitlab.com/saadpasta",
   facebook: "https://www.facebook.com/saad.pasta7"
   // Instagram and Twitter are also supported in the links!
@@ -123,8 +123,8 @@ const workExperiences = {
   experience: [
     {
       role: "Software Engineer",  
-      company: "Facebook",
-      companylogo: require("./assets/images/facebookLogo.png"),
+      company: "Waft Tech",
+      companylogo: require("./assets/images/WaftTech_Logo.jpg"),
       date: "June 2018 – Present",
       desc: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
       descBullets: [
@@ -134,18 +134,18 @@ const workExperiences = {
     },
     {
       role: "Front-End Developer",   
-      company: "Quora",
+      company: "Sky Tech",
       companylogo: require("./assets/images/quoraLogo.png"),
-      date: "May 2017 – May 2018",
+      date: "October 2018 – Present",
       desc: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
     },
-    {
-      role: "Software Engineer Intern",  
-      company: "Airbnb",
-      companylogo: require("./assets/images/airbnbLogo.png"),
-      date: "Jan 2015 – Sep 2015",
-      desc: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
-    },
+    // {
+    //   role: "Software Engineer Intern",  
+    //   company: "Airbnb",
+    //   companylogo: require("./assets/images/airbnbLogo.png"),
+    //   date: "Jan 2015 – Sep 2015",
+    //   desc: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+    // },
   ]
 };
 
@@ -263,8 +263,8 @@ const podcastSection = {
 const contactInfo = {
   title: emoji("Contact Me ☎️"),
   subtitle: "Discuss a project or just want to say hi? My Inbox is open for all.",
-  number: "+92-3243454077",
-  email_address: "saadpasta70@gmail.com"
+  number: "+1-(516) 269-6413",
+  email_address: "ramstha618.com"
 };
 
 //Twitter Section
